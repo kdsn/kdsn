@@ -27,8 +27,8 @@ As an independent full stack developer, I build WordPress sites, and create tool
 <img align="left" alt="JavaScript" width="30px" style="padding: 0 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding: 0 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<img align="left" alt="React" width="30px" style="padding: 0 10px 0 0;" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding: 0 10px 0 0;" src="https://ps.w.org/elementor/assets/icon.svg?rev=2597493" />
+<img align="left" alt="WordPress" width="30px" style="padding: 0 10px 0 0;" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />
+<img align="left" alt="Elementor" width="30px" style="padding: 0 10px 0 0;" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-1024.png" />
 
 <br />
 <br />
