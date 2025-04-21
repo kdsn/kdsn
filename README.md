@@ -48,7 +48,6 @@ Stripe API · Firebase Auth · OAuth2 · Webhooks · JWT
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" style="padding: 0 10px 0 0;" align="left" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" style="padding: 0 10px 0 0;" align="left" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" style="padding: 0 10px 0 0;" align="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" style="padding: 0 10px 0 0;" align="left" />
 </p>
 <br>
 
