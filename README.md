@@ -5,33 +5,56 @@ As an independent full stack developer, I build WordPress sites, and create tool
 
 #
 
-### 🧰 Languages and Tools
+### 🛠️ Tech Stack
+**Frontend:**  
+HTML · CSS · JavaScript · React · Tailwind CSS · Bootstrap
 
-<img align="left" alt="Linux" width="30px" style="padding: 0 10px 0 0;" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+**Backend:**  
+PHP · Node.js · Python
 
-<img align="left" alt="Docker" width="30px" style="padding: 0 10px 0 0;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" />
-<img align="left" alt="Kubernetes" width="30px" style="padding: 0 10px 0 0;" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
+**CMS:**  
+WordPress · Elementor · ACF · WooCommerce · REST API
 
-<img align="left" alt="Git" width="30px" style="padding: 0 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding: 0 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+**Databaser:**  
+MySQL · MongoDB · Firebase
 
-<img align="left" alt="NodeJS" width="30px" style="padding: 0 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding: 0 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="PHP" width="30px" style="padding: 0 10px 0 0;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
+**DevOps / Tools:**  
+Git · Docker · GitHub Actions · Linux · Apache · Nginx · WP-CLI
 
-<img align="left" alt="MySQL" width="30px" style="padding: 0 10px 0 0;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding: 0 10px 0 0;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-
-<img align="left" alt="HTML" width="30px" style="padding: 0 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding: 0 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding: 0 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding: 0 10px 0 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-<img align="left" alt="WordPress" width="30px" style="padding: 0 10px 0 0;" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />
-<img align="left" alt="Elementor" width="30px" style="padding: 0 10px 0 0;" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-1024.png" />
-
-<br />
-<br />
+**SaaS / Auth / Integrationer:**  
+Stripe API · Firebase Auth · OAuth2 · Webhooks · JWT
+<br><br>
+<p>
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" style="padding: 0 10px 0 0;" align="left" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" style="padding: 0 10px 0 0;" align="left" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" style="padding: 0 10px 0 0;" align="left" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" style="padding: 0 10px 0 0;" align="left" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" style="padding: 0 10px 0 0;" align="left" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" style="padding: 0 10px 0 0;" align="left" />
+  
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" style="padding: 0 10px 0 0;" align="left" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" style="padding: 0 10px 0 0;" align="left" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" style="padding: 0 10px 0 0;" align="left" />
+  
+  <!-- CMS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="30" alt="WordPress" style="padding: 0 10px 0 0;" align="left" />
+  
+  <!-- Databaser -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" style="padding: 0 10px 0 0;" align="left" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" style="padding: 0 10px 0 0;" align="left" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" style="padding: 0 10px 0 0;" align="left" />
+  
+  <!-- DevOps & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" style="padding: 0 10px 0 0;" align="left" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" style="padding: 0 10px 0 0;" align="left" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="Apache" style="padding: 0 10px 0 0;" align="left" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="Nginx" style="padding: 0 10px 0 0;" align="left" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" style="padding: 0 10px 0 0;" align="left" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" style="padding: 0 10px 0 0;" align="left" />
+</p>
+<br>
 
 #
 
