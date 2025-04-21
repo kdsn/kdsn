@@ -30,8 +30,6 @@ Stripe API · Firebase Auth · OAuth2 · Webhooks · JWT
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" style="padding: 0 10px 0 0;" align="left" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" style="padding: 0 10px 0 0;" align="left" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" style="padding: 0 10px 0 0;" align="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" style="padding: 0 10px 0 0;" align="left" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" style="padding: 0 10px 0 0;" align="left" />
   
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" style="padding: 0 10px 0 0;" align="left" />
